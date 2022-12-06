@@ -1,0 +1,36 @@
+/*
+This is comment in css
+css syntax: selector {property: value;}
+*/
+
+/************** Tag selectors **************/
+
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top: 3px dotted grey;
+  height: 2px;
+  width: 100%;
+}
+
+h1 {
+  color: #393E46;
+}
+
+h3 {
+  color: #393E46;
+  text-decoration-line: underline;
+}
+
+/************** Class selectors **************/
+.heyu {
+  background-color: blue;
+}
+
+.heyu2 {
+  background-color: red;
+}
